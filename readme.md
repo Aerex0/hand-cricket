@@ -244,8 +244,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Aerex0](https://github.com/Aerex0)
+- Email: suyashranjan07@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -259,7 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 1. Check the [Troubleshooting](#🐛-troubleshooting) section
-2. Search existing [Issues](https://github.com/yourusername/hand-cricket-game/issues)
+2. Search existing [Issues](https://github.com/Aerex0/hand-cricket-game/issues)
 3. Create a new issue with detailed description
 4. Join our community discussions
 
