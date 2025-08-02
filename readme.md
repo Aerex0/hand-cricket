@@ -24,7 +24,7 @@ Hand Cricket is a digital version of the popular hand game where players use fin
 ## 🎲 How to Play
 
 ### Basic Rules
-1. **Finger Counting**: Show 1-6 fingers to represent runs (0 fingers = 1 run)
+1. **Finger Counting**: Show 1-6 fingers(except 5) to represent runs 
 2. **Batting**: When you're batting, your finger count is your score for that ball
 3. **Bowling**: When computer is batting, your finger count tries to get them out
 4. **Getting Out**: If your finger count matches the computer's, you're OUT!
@@ -60,24 +60,25 @@ pip install tkinter
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hand-cricket-game.git
-cd hand-cricket-game
+git clone https://github.com/Aerex0/hand-cricket.git
+cd hand-cricket
 
 # Install dependencies
+# tkinter is not in this file , install it side by side
 pip install -r requirements.txt
 
 # Run the game
-python hand_cricket.py
+python main.py
 ```
 
 ## 📁 Project Structure
 
 ```
-hand-cricket-game/
+hand-cricket/
 │
-├── hand_cricket.py          # Main game file
+├── main.py          # Main game file
 ├── requirements.txt         # Python dependencies
-├── README.md               # This file
+├── readme.md               # This file
 │
 ├── assets/                 # Game assets
 │   ├── out.wav            # Out sound effect
@@ -88,9 +89,11 @@ hand-cricket-game/
 │   ├── Victory.gif        # Victory animation
 │   └── game-over-game.gif # Game over animation
 │
-└── screenshots/           # Game screenshots (optional)
+└── screenshots/           # Game screenshots 
     ├── gameplay.png
-    └── victory.png
+    ├── lose.png
+    └── Victory.png
+    
 ```
 
 ## 🎵 Asset Requirements
